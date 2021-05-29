@@ -2278,6 +2278,14 @@ input::-moz-focus-inner {
   background-image: url(../images/icons/icon-education.svg);
 }
 
+.timeline__icon--skills {
+  background-image: url(../images/icons/icon-skills.svg);
+}
+
+.timeline__icon--design{
+  background-image: url(../images/icons/icon-design.svg);
+}
+
 .timeline__block {
   position: relative;
   padding-left: 5.6rem;
