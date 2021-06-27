@@ -1702,6 +1702,10 @@ input::-moz-focus-inner {
   margin-right: 1rem;
 }
 
+.header-social li a:hover{
+  color: #128177;
+}
+
 .header-social li:last-child {
   margin-right: 0;
 }
