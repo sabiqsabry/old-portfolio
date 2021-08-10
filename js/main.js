@@ -207,7 +207,7 @@
             slidesToShow: 1,
             slidesToScroll: 1,
             pauseOnFocus: false,
-            autoplaySpeed: 1500,
+            autoplaySpeed: 500,
             fade: true,
             cssEase: 'linear'
         });
